@@ -13,3 +13,5 @@ Uso total de disco (Libre vs. Usada, incluyendo porcentaje)
 Objetivo adicional: Si lo deseas, puedes añadir más estadísticas, como la versión del sistema operativo, el tiempo de actividad, el promedio de carga, los usuarios conectados, los intentos de inicio de sesión fallidos, etc.
 
 Una vez completado este proyecto, tendrás conocimientos básicos sobre cómo analizar las estadísticas de rendimiento del servidor para depurar y comprender mejor su rendimiento.
+
+https://roadmap.sh/projects/server-stats
